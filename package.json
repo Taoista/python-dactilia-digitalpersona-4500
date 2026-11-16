@@ -1,0 +1,1 @@
+{"name":"estacion-de-huellas","version":"1.0.0","private":true,"scripts":{"build":"esbuild interfaz.ts --bundle --minify --format=iife --outfile=public/app.js"},"dependencies":{"@angular/common":"^22.2.6","@angular/compiler":"^22.2.6","@angular/core":"^22.2.6","@angular/platform-browser":"^22.2.6","esbuild":"^0.28.2","rxjs":"^7.8.2"}}

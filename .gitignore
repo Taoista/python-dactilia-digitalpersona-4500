@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+.runtime/
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.bir
+*.log
+Dactilia.zip
